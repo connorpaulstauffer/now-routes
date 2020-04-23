@@ -1,0 +1,17 @@
+{
+  "name": "now-routes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "now dev"
+  },
+  "devDependencies": {
+    "now": "^18.0.0"
+  },
+  "dependencies": {
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
